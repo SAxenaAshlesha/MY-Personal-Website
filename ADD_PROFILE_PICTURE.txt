@@ -1,0 +1,46 @@
+HOW TO ADD YOUR PROFILE PICTURE
+================================
+
+Your profile picture from the image you shared needs to be saved properly.
+
+STEPS:
+------
+
+1. LOCATE YOUR PHOTO
+   - Find the green dress photo you want to use
+   - It should be saved somewhere on your computer
+
+2. COPY THE PHOTO
+   - Copy your photo file
+   - Navigate to this folder:
+     C:\Users\ashle\OneDrive\Documents\portfolio\CascadeProjects\personal-website\
+   
+3. PASTE AND RENAME
+   - Paste your photo in the folder
+   - Rename it to exactly: profile.jpg
+   - Delete the old empty profile.jpg file first
+
+4. VERIFY
+   - Open index.html in your browser
+   - Your photo should now appear in the About Me section!
+
+ALTERNATIVE METHOD:
+------------------
+If you have the image file path, you can also:
+1. Right-click on your photo
+2. Select "Copy"
+3. Go to the personal-website folder
+4. Right-click and "Paste"
+5. Rename to "profile.jpg"
+
+The website is already configured to display profile.jpg automatically!
+
+IMPORTANT NOTES:
+---------------
+- File must be named exactly: profile.jpg (lowercase)
+- Supported formats: .jpg, .jpeg, .png
+- Recommended size: 300x300 pixels or larger
+- The image will be automatically cropped to a circle
+
+After adding your photo, you're ready to deploy!
+See QUICK_START.md for deployment instructions.
