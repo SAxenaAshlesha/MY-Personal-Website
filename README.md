@@ -4,9 +4,7 @@ A beautiful, modern, and responsive personal portfolio website with a soft pink 
 
 ## 🌐 Live Demo
 
-**[View Live Portfolio →](https://mypersonalwebz.netlify.app)**
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-BADGE-ID/deploy-status)](https://app.netlify.com/sites/mypersonalwebz/deploys)
+**[Ashlesha Saxena | Portfolio →](https://mypersonalwebz.netlify.app)**
 
 ## 🎨 Features
 
