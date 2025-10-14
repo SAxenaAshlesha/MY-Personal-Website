@@ -2,6 +2,12 @@
 
 A beautiful, modern, and responsive personal portfolio website with a soft pink and beige color theme.
 
+## 🌐 Live Demo
+
+**[View Live Portfolio →](https://mypersonalwebz.netlify.app)**
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-BADGE-ID/deploy-status)](https://app.netlify.com/sites/mypersonalwebz/deploys)
+
 ## 🎨 Features
 
 - **Modern Design**: Clean and professional layout with soft pink/beige color scheme
