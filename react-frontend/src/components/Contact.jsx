@@ -26,7 +26,8 @@ const Contact = () => {
     setSubmitStatus(null)
 
     try {
-      const response = await axios.post('/api/contact', formData)
+      const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000'
+      const response = await axios.post(`${API_URL}/api/contact`, formData)
       
       if (response.data.status === 'success') {
         setSubmitStatus({ type: 'success', message: 'Thank you for your message! I will get back to you soon.' })
